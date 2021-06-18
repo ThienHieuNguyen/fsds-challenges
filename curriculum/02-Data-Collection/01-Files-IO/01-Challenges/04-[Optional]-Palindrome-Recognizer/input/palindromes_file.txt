@@ -1,0 +1,44 @@
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward.
+Examples are :
+taco cat
+madam
+racecar
+Sentence-length palindromes may be written when allowances are made for adjustments to capital letters, punctuation, and word dividers, such as :
+"A man, a plan, a canal, Panama!"
+"Was it a car or a cat I saw?"
+"No 'x' in Nixon"
+Composing literature in palindromes is an example of constrained writing.
+The word palindrome was first published by Henry Peacham in his book, The Truth of Our Times (1638). It is derived from the Greek roots palin (πάλιν; "again") and dromos (δρóμος; "way, direction").
+Palindromes date back at least to 79 AD, as a palindrome was found as a graffito at Herculaneum, a city buried by ash in that year.
+This palindrome, called the Sator Square, consists of a sentence written in Latin:
+"Sator Arepo Tenet Opera Rotas"
+It is remarkable for the fact that the first letters of each word form the first word, the second letters form the second word, and so forth.
+The palindromic Latin riddle
+"In girum imus nocte et consumimur igni"
+("we go in a circle at night and are consumed by fire") describes the behavior of moths.
+It is likely that this palindrome is from medieval rather than ancient times.
+Some well-known English palindromes are, "Able was I ere I saw Elba",[3] "A man, a plan, a canal – Panama",[4][5] "Madam, I'm Adam" and "Never odd or even".
+
+English palindromes of notable length include mathematician Peter Hilton's
+"Doc, note: I dissent. A fast never prevents a fatness. I diet on cod"
+and Scottish poet Alastair Reid's
+"T. Eliot, top bard, notes putrid tang emanating, is sad; I'd assign it a name: gnat dirt upset on drab pot toilet."
+There are also word-unit palindromes in which the unit of reversal is the word
+("Is it crazy how saying sentences backwards creates backwards sentences saying how crazy it is?").
+Word-unit palindromes were made popular in the recreational linguistics community by J. A. Lindon in the 1960s.
+Occasional examples in English were created in the 19th century.
+Several in French and Latin date to the Middle Ages.
+Palindromes often consist of a sentence or phrase, e.g.,
+"Mr. Owl ate my metal worm"
+"Do geese see God?"
+"Was it a car or a cat I saw?"
+"Murder for a jar of red rum"
+"Go hang a salami, I'm a lasagna hog"
+Punctuation, capitalization, and spaces are usually ignored.
+Some, such as
+"Rats live on no evil star"
+"Live on time, emit no evil"
+and "Step on no pets"
+include the spaces.
+A phonetic palindrome is a portion of speech that is identical or roughly identical when reversed.
+It can arise in context where language is played with, for example in slang dialects like verlan.
